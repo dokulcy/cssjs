@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://ongnhuatruongan.blogspot.com/' target='_blank'><img src='https://3.bp.blogspot.com/-KQF7y6CSzhc/W8h_45XFoII/AAAAAAAAAFE/c9jTrkpTnWEHMktSgvBUS1SuAOgTVUwWwCLcBGAs/s1600/Untitled.png.gif' width='500px'/><br/>Ống nhựa chính hãng</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://ongnhuatruongan.blogspot.com/' target='_blank'><img src='https://3.bp.blogspot.com/-KQF7y6CSzhc/W8h_45XFoII/AAAAAAAAAFE/c9jTrkpTnWEHMktSgvBUS1SuAOgTVUwWwCLcBGAs/s1600/Untitled.png.gif' width='500px'/><br/>Ống nhựa chính hãng</a>. Giá cả phù hợp. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
